@@ -5,7 +5,7 @@
  *
  * Description: A C program that rints with put function
  *
- * Retuen : Always 0 (success)
+ * Return: Always 0 (success)
  */
 
 int main(void)
