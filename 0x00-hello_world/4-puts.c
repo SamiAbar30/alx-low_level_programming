@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 /**
  * main - Entry point
  *
@@ -6,6 +7,7 @@
  *
  * Retuen : Always 0 (success)
  */
+
 int main(void)
 {
 
