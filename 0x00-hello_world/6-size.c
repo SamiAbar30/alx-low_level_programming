@@ -1,5 +1,9 @@
 #include <stdio.h>
-
+/**
+ * main - Entry point
+ * Description: A C program that runs with printfs function
+ * Retuen : Always 0 (success)
+ */
 int main(void)
 {
 	printf("Size of a char : %lu byte(s)\n", sizeof(char));
