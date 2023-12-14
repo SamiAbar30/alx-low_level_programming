@@ -2,7 +2,7 @@
 /**
  * main - Entry point
  * Description: A C program that runs with printf function
- * Retuen : Always 0 (success)
+ * Return: Always 0 (success)
  */
 int main(void)
 {
