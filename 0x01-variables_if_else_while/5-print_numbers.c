@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- *main - entry point
- *Description: variables_if_else_while
- *return:0
+ * main - entry point
+ * Discription: positive or negative
+ * Return: return 0
 */
 int main(void)
 {

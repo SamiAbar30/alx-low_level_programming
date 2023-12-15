@@ -1,11 +1,9 @@
 #include <stdio.h>
-
 /**
- *main - entry point
- *Description: print alphabets
- *return:0
+ * main - entry point
+ * Discription: positive or negative
+ * Return: return 0
 */
-
 int main(void)
 {
 	int digit = 0;

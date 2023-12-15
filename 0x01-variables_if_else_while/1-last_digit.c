@@ -3,8 +3,8 @@
 #include <time.h>
 /**
  * main - entry point
- * Discription: last digit
- * return: 0
+ * Discription: positive or negative
+ * Return: return 0
 */
 int main(void)
 {
