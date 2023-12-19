@@ -2,7 +2,7 @@
 /**
  * print_sign - checks for lowercase character
  * @n: prameter that we will test
- * Return: Returns 1 and prints + if n is greater than zero Returns 0 and prints 0
+ * Return: Returns 1 and prints + if n is g
 */
 int print_sign(int n)
 {
