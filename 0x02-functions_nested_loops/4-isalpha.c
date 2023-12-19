@@ -1,4 +1,4 @@
-i#include"main.h"
+#include"main.h"
 /**
  * _isalpha - checks for lowercase character
  * @c: prameter that we will test
