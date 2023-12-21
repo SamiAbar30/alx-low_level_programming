@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * print_line - entry point.
+ * print_diagonal - entry point.
  * @n: param.
- *description: a function that draws a diagonal line on the terminal.
+ * Description: a function that draws a diagonal line on the terminal.
  */
 
 void print_diagonal(int n)
