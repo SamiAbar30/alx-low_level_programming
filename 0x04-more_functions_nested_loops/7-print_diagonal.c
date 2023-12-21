@@ -3,7 +3,7 @@
 /**
  * print_line - entry point.
  * @n: param.
- * Return: multiplies two integers result.
+ *description: a function that draws a diagonal line on the terminal.
  */
 
 void print_diagonal(int n)
@@ -15,10 +15,10 @@ void print_diagonal(int n)
 		for (i = 0; i < n; i++)
 		{
 			j = i - 1;
-			while(j >= 0)
+			while (j >= 0)
 			{
-			 _putchar(' ');
-			 j--;
+				_putchar(' ');
+				j--;
 			}
 			_putchar(92);
 			_putchar('\n');
