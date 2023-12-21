@@ -3,7 +3,7 @@
 /**
  * print_line - entry point.
  * @n: param.
- * Return: multiplies two integers result.
+ * Description: a function that draws a straight line
  */
 
 void print_line(int n)
